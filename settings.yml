@@ -1,0 +1,3 @@
+registry: 'PosFullCycleTechLead-PythonImage'
+repository: 'PosFullCycleTechLead-PythonImage'
+dependencies-path: 'src/requirements.txt'
