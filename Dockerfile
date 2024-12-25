@@ -4,7 +4,7 @@ WORKDIR /app
 
 COPY src .
 
-RUN pip install --no-cache -r requirement.txt
+RUN pip install --no-cache -r requirements.txt
 
 EXPOSE 9000
 
