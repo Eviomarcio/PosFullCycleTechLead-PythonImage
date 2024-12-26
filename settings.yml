@@ -1,3 +1,3 @@
-registry: 'PosFullCycleTechLead-PythonImage'
-repository: 'PosFullCycleTechLead-PythonImage'
+registry: 'posfullcycletechlead-pythonimage'
+repository: 'posFullcycletechlead-pythonimage'
 dependencies-path: 'src/requirements.txt'
